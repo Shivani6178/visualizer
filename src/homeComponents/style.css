@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Cinzel:wght@400..900&family=Protest+Revolution&display=swap');
+.type{
+    width: 100%;
+    align-content: center;
+    background-color: #040404;
+    text-align: center;
+    font-family: "Roboto Slab ExtraLight";
+}
+
+.heading{
+    font-family: 'Anton', sans-serif;
+    font-size: 5rem;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    background-color: #000000;
+}
+
+.Cards{
+    background-color: #000000;
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    position: center;
+    child-align: middle;
+}
+
+.page-footer{
+    background-color: #000000;
+}
+.footer-copyright{
+    color:white;
+    background-color: black;
+}
+.greet{
+    text-align: center;
+    background-color: #000000;
+    color: white;
+    padding: 10px;
+}
